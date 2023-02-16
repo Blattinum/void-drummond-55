@@ -1,0 +1,23 @@
+{
+  "name": "void-drummond-55",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blattinum/void-drummond-55.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blattinum/void-drummond-55/issues"
+  },
+  "homepage": "https://github.com/Blattinum/void-drummond-55#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
